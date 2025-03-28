@@ -5,7 +5,7 @@
  ⚡ Fun fact: I watch a lot of series and movies ,I also spend most of the time scrolling through memes<br>
 🌍I'm based in Nairobi,Kenya<br>
 ✉️You can send an email to omondinigel04@gmail.com<br>
-🤝I'm open to collaborate in Android,Java
+🤝I'm open to collaborate in Android,Java. 
 
 
 <!---
