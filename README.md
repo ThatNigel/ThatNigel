@@ -3,7 +3,7 @@
 <p> I’m interested in coding and software development.
   I’m currently learning Full stack Software Development,python and Django.</p><br>
 
-<h1>Lets save the codes with our fingers and minds</h1>  
+<h1>Debugged my future .It runs clean now.</h1>  
  ⚡ Fun fact: I watch a lot of series and movies ,I also spend most of the time scrolling through memes<br>
 🌍I'm based in Nairobi,Kenya<br>
 ✉️You can send an email to omondinigel04@gmail.com<br>
